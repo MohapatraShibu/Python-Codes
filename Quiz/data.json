@@ -1,0 +1,86 @@
+{
+  "question": [
+    "Q1. The statement that is executed automatically by the system as a side effect of the modification of the database is?",
+    "Q2. The ability to query data, as well as insert, delete, and alter tuples, is offered by?",
+    "Q3. The logical design, and the snapshot of the data at a given instant in time is known as?",
+    "Q4. ____________ is a combination of two of more attributes used as a primary key?",
+    "Q5.  _________________ operations do not preserve non-matched tuples?",
+    "Q6.  _______ indicates the maximum number of entities that can be involved in a relationship?",
+    "Q7. After groups isestablished, SQL applies predicates in the ___________ clause, allowing aggregate functions is used?",
+    "Q8. For designing a normal RDBMS which of the following normal form is considered adequate?",
+    "Q9. A stored procedure in SQL is a___________ ?",
+    "Q10. For which of the following are triggers not supported?"
+
+  ],
+  "answer": [
+    3,
+    4,
+    4,
+    1,
+    1,
+    1,
+    3,
+    3,
+    1,
+    1
+  ],
+  "options": [
+
+    ["backup",
+      "recovery",
+      "trigger",
+      "assertion"
+    ],
+    ["TCL (Transaction Control Language)",
+      "DCL (Data Control Language)",
+      "DDL (Data Definition Langauge)",
+      "DML (Data Manipulation Langauge)"
+    ],
+    ["Instance & Relation",
+      "Relation & Schema",
+      "Domain & Schema",
+      "Schema & Instance"
+    ],
+    ["Composite Key",
+      "Alternate Key",
+      "Canditate Key",
+      "Foreign Key"
+    ],
+    [
+      "Left outer join",
+      "Inner join",
+      "Right join",
+      "Right outer join"
+    ],
+    [
+      "Maximum cardinality",
+      "Greater Entity Count",
+      "Minimum cardinality",
+      "ERD"
+    ],
+    [
+      "Having",
+      "Group by",
+      "With",
+      "Where"
+    ],
+    [
+      "2NF",
+      "1NF",
+      "3NF",
+      "4NF"
+    ],
+    [
+      "Group of Transact-SQL statements compiled into a single execution plan",
+      "Group of distinct SQL statements",
+      "Block of functions",
+      "None of the mentioned"
+    ],
+    [
+      "views",
+      "delete",
+      "insert",
+      "update"
+    ]
+  ]
+}
